@@ -1,0 +1,20 @@
+Nota Ciencia Hoy -- Diagrama básico.
+
+1. Introducción. 
+	- De cómo siempre fueron importantes los planetas.
+
+2. Una era de caracterización.
+	- Descripción del cambio en el campo de exoplanetas en los últimos años. Kepler como la culminación 		  de la era de descubrimiento.
+	- Hablar de la caracterización atmosférica en términos generales, sin describir las técnicas.
+	- TESS, JWST y los ELTs como pioneros de esta nueva era.
+
+3. Gliese 411 b
+	- Contar los detalles del descubrimiento. En particular, decir que era una estrella estándar del 		  relevo de SOPHIE (hay que introducir el método de velocidad radial antes?).
+	- Temperaturas de equilibrio, y la diferencia con la temperatura en la superficie.
+
+4. Caracterización atmosférica.
+	- Describir la técnica de tránsitos espectroscópicos, y explicar la sinergía TESS + JWST.
+	- Describir el técnica de HDS + HRI. Resaltar la importancia de Gliese 411 b.
+
+5. La búsqueda de vida.
+	- Biomarcadores.
